@@ -4,6 +4,10 @@ This is a serverless Magic 8-Ball application using AWS Lambda, API Gateway, and
 
 ## I will walk you through the environment setup!
 
+Once the environment is setup go to your local terminal: 
+**npx create-react-app magic-8-ball** 
+This will create your project and you can open the folder. 
+
 ## **🚀 Live Demo**
 
 - **Frontend**: React.js
