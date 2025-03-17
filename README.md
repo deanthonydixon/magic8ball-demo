@@ -28,6 +28,6 @@ This will create your project and you can open the folder.
 ## **📥 Installation**
 
 ### **1️⃣ Clone the Repository**
-
-git clone https://github.com/your-username/magic-8-ball-demo.git
 cd magic-8-ball-demo
+npm install 
+npm start
